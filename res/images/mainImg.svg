@@ -1,7 +1,7 @@
-<svg width="937" height="700" viewBox="0 0 937 700" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path d="M628.045 124.225C752.968 202.562 845.513 463.517 764.645 592.475C683.778 721.433 438.24 831.935 313.318 753.598C188.396 675.261 41.1502 493.132 122.018 364.174C202.885 235.217 503.123 45.888 628.045 124.225Z" fill="white"/>
-<rect width="381" height="853" transform="matrix(-1 0 0 1 844.517 40.343)" fill="url(#pattern0)"/>
-<rect x="106.517" y="23.343" width="504" height="721" fill="url(#pattern1)"/>
+<svg width="713" height="645" viewBox="0 0 713 645" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M12.3264 430.484C12.3264 288.193 178.224 78.7486 325.112 78.7486C471.999 78.7486 688.22 222.836 688.22 365.127C688.22 507.418 614.81 721.17 467.922 721.17C321.035 721.17 12.3264 572.775 12.3264 430.484Z" fill="white"/>
+<rect width="367.663" height="823.141" transform="matrix(-1 0 0 1 712.848 16.4868)" fill="url(#pattern0)"/>
+<rect x="0.681396" y="0.0817871" width="486.357" height="695.761" fill="url(#pattern1)"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_1315_498" transform="scale(0.00262467 0.00117233)"/>
