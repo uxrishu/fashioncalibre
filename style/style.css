@@ -64,9 +64,10 @@ a {
 }
 
 .btn {
-  width: 120px;
-  height: 36px;
-  padding: 0.4em 1.2em;
+  width: 130px;
+  height: 34px;
+  padding: 0.4em 1.4em;
+  font-size: 14px;
   border-radius: 4px;
   text-align: center;
   -webkit-box-align: center;
