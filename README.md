@@ -1,2 +1,2 @@
-# fashioncalibre
+# Ninja Clothing
 Design Assignments
